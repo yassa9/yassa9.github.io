@@ -12,10 +12,9 @@ permalink: /osint/
 
 <div class="project-sep"></div>
 
+---
 
-| #  | date       | writeup page |
-|----|------------|--------------|
-| 00 | 2026-08-15 | [gralhix #004, Geolocating Random Islet Image Using Geometry & CUDA GPU Programming ](/osint/gralhix-004/) |
+- 00, 2026-08-15: [gralhix #004, Geolocating Random Islet Image Using Geometry & CUDA GPU Programming](/osint/gralhix-004/)
 
 
 ```
