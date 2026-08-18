@@ -478,6 +478,7 @@ and that is the solution 🥳 ...
 
 you can view it here on [google maps](https://www.google.com/maps/@7.3633,151.755983,50m/data=!3m1!1e3)
 
+
 ---
 
 ## i] FINALLY, ANSWERS ...
@@ -508,3 +509,35 @@ $$ \because\quad \theta = \text{atan2}\Big(\sin(\Delta\lambda)\cos\phi_1,\ \cos\
 $$ P_0 = (7.3633,\ 151.755983), \quad P_1 = (7.386573,\ 151.739534) $$
 
 $$ \therefore\quad \theta = 324.97^\circ \implies \textbf{NW} $$
+
+
+---
+
+## j] Data & Licenses
+
+**Coastline polygons**:<br>
+[land-polygons-split-4326](https://osmdata.openstreetmap.de/data/land-polygons.html)
+© OpenStreetMap contributors, available under the
+[Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/).
+The candidate sets and final report in the repo are a Derived Database and are
+published under the same license.
+
+**Elevation **: <br>
+Copernicus DEM GLO-30.
+© DLR e.V. 2010-2014 and © Airbus Defence and Space GmbH 2014-2018 provided under
+COPERNICUS by the European Union and ESA; all rights reserved.
+
+**Satellite imagery **: <br>
+Contains modified Copernicus Sentinel data 2025-2026,
+accessed through [Earth Search](https://earth-search.aws.element84.com/v1)
+by Element 84 on AWS Open Data.
+
+**Country boundaries **: <br>
+[Natural Earth](https://www.naturalearthdata.com/) 10m
+admin-0, public domain.
+
+**Challenge & source photo **: <br>
+[OSINT Exercise #004](https://gralhix.com/list-of-osint-exercises/osint-exercise-004/)
+by Sofia Santos ([gralhix](https://gralhix.com/)).
+
+Satellite screenshots in section (h) are from Google Maps / Google Earth <br>
