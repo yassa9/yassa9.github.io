@@ -21,5 +21,5 @@ Hey, I'm Yassa :D !!
 
 ---
 - I play chess ( current bullet rating: +2000 on lichess ).
-- I do OSINT & geoguessing for fun.
+- I do [OSINT & geoguessing](/osint/) for fun.
 
